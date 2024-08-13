@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@nibbstack/erc721": "^2.6.1",
+    "@truffle/hdwallet-provider": "^2.1.15",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
