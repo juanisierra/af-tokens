@@ -81,8 +81,7 @@ module.exports = {
       provider: function() {
 
         return new HDWalletProvider(mnemonic_af_testnet, "https://rpc.nexus.testnet.apexfusion.org");
-      },
-      production: true
+      }
   },
   // Set default mocha options here, use special reporters etc.
   mocha: {
